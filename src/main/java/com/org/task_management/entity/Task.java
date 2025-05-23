@@ -11,6 +11,7 @@ import java.util.Date;
 @Entity
 @Setter
 @Getter
+@NoArgsConstructor
 @AllArgsConstructor
 public class Task {
 
